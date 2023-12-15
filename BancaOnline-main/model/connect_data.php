@@ -3,7 +3,7 @@
 class connect_data
 {
     public $host='localhost';
-    public $userbbdd='root';
-    public $passbbdd='';
-    public $ddbbname='banca_online';
+    public $userbbdd='lukenzer_recuLuk';
+    public $passbbdd='{U1dR6?2Rnki&G';
+    public $ddbbname='lukenzer_g5Idirin';
 }
